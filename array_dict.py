@@ -20,3 +20,4 @@ for _ in range(2,10):
 # range(a,b,c) a~b b포함하지 않고 c만큼 건너띄며
 for _ in range(2,8,-1):
     print(_)
+
